@@ -223,6 +223,7 @@
 ## Hello Transaction
 
 问题：使得 TiDB 启动事务时，会打一个 “hello trasaction” 的日志。
+
 思路：通过上面截图可看出，客户端在连接 TiDB 时会打印一条日志(如下)，全局搜索关键词 `new connection`，同理增加一行日志，改动见下面截图。
 
 ```
