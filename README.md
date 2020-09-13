@@ -36,5 +36,4 @@
 ## 学习资料
 
 - [awesome-database-learning@pingcap](https://github.com/pingcap/awesome-database-learning)
-- [6.824: Distributed Systems](https://pdos.csail.mit.edu/6.824/index.html)
-- 
+- [6.824: Distributed Systems@MIT](https://pdos.csail.mit.edu/6.824/index.html)
